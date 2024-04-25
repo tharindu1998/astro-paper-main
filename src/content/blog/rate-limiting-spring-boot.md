@@ -1,7 +1,7 @@
 ---
 author: Tharindu Fernando
 pubDatetime: 2022-09-23T04:58:53Z
-modDatetime: 2024-04-15T13:05:56.066Z
+modDatetime: 2024-04-09T15:36:56.066Z
 title: Implementing Rate Limiting in a Spring Boot API using Bucket4j
 slug: implementing-rate-limiting-in-a-spring-boot-api-using-bucket4j
 featured: true
