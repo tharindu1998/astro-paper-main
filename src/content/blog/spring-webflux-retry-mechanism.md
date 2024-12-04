@@ -9,7 +9,7 @@ draft: false
 tags:
   - configuration
   - docs
-description: Retry mechanisms are created to handle short interruptions by continuously trying to execute a specific task until it finishes or a set number of retry attempts are exhausted.
+description: Microservices and other external dependencies are vulnerable to occasional failures brought on by temporary service outages, network problems, or temporary faults. These errors may only occur temporarily, and repeating the procedure again after a little break frequently results in a successful outcome. Retry mechanisms are created to handle short interruptions by continuously trying to execute a specific task until it finishes or a set number of retry attempts are exhausted.
 ---
-Microservices and other external dependencies are vulnerable to occasional failures brought on by temporary service outages, network problems, or temporary faults. These errors may only occur temporarily, and repeating the procedure again after a little break frequently results in a successful outcome. Retry mechanisms are created to handle short interruptions by continuously trying to execute a specific task until it finishes or a set number of retry attempts are exhausted.
+
 
